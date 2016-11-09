@@ -1,7 +1,7 @@
-# Finding a way
+# Finding a way to get out
 
 ---
 
-You chose to ignore the wise man which was a strange idea. Instead you try to find your way out which didn't help you at all.
+You chose to ignore the wise man which was a strange decision. Instead you try to find your way out which didn't help you at all.
 
-[your fate](../held-captive.md)
+[**Your Fate**](prison.md)
