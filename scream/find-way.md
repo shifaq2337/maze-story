@@ -2,6 +2,7 @@
 
 ---
 
-You chose to ignore the wise man which was a strange decision. Instead you try to find your way out which didn't help you at all.
+You chose to ignore the wise man which was a strange decision. Instead you try to find a way out by yourself.
+
 
 [**Your Fate**](prison.md)
