@@ -2,7 +2,7 @@
 
 ---
 
-You just woke up from a long and deep sleep. The first thing you notice is that you are not in your own room! You are surrounded by walls inside a maze. What will you do?  
+You just woke up from a long and deep sleep. The first thing you notice is that you are not in your own room! You are surrounded by walls, you realize you are inside a maze. What will you do?  
     
     
     
