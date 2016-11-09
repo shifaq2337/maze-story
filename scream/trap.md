@@ -1,10 +1,8 @@
-# The Trap
+# Trap
 
 ---
 
-You get snared in one of the traps.
+You encounter a trap! What shall you do? 
 
-**You're attempt to esape failed. You _die_.**
-
-[**Start Over**](../wake-up.md)
-
+[Run in the other direction to find another path](fall-in.md)  
+[Try to get past the trap](caught-trap.md)
