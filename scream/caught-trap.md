@@ -2,6 +2,6 @@
 
 --- 
 
-Oh no! You got caught in a trap! 
+Oh no! You got caught in a trap! Will anyone save you? Let's find out!
 
-[your fate](../die.md)
+[**Your Fate**](../die.md)
